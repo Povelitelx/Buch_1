@@ -219,7 +219,7 @@ a:hover {
 }
 
 .body_first {
-    background-image: url("/img/dlMkXy.webp");
+    background-image: url("../img/dlMkXy.webp");
     background-position: top center;
     background-size: cover;
     height: 900px;

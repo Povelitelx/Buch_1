@@ -205,7 +205,7 @@ a:hover {
 }
 
 .body_first {
-    background-image: url("/img/aboutUs_logo.jpg");
+    background-image: url("../img/aboutUs_logo.jpg");
     background-position:center;
     background-size: cover;
     height: 60%;
