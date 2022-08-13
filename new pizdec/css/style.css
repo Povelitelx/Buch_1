@@ -176,6 +176,18 @@ h1, h2, h3, h4, h5, h6 {
     padding: 13px 20px;
 
 }
+/*.li_hover div {*/
+/*    font-family: "Montserrat", Sans-serif;*/
+/*    font-size: 10px;*/
+/*    font-weight: 600;*/
+/*    text-transform: uppercase;*/
+/*    color: black;*/
+/*    border-top-color: red;*/
+/*    padding: 13px 20px;*/
+/*    background: red;*/
+
+
+/*}*/
 
 .first_a {
     color: red;
@@ -965,6 +977,10 @@ a:hover {
 
     .body_second_container_top p {
         font-size: 38px;
+    }
+    .at_time{
+        font-size: 12px;
+        padding: 0;
     }
 }
 

@@ -878,6 +878,10 @@ a:hover {
         display: block ;
         padding-left: 15%;
     }
+    .at_time{
+        font-size: 12px;
+        padding: 0;
+    }
 }
 
 @media screen and (max-width: 796px) {
