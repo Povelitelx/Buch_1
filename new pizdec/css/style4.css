@@ -775,6 +775,14 @@ a:hover {
     .body_second {
         margin-bottom: 40px;
     }
+    .login_signup_absolut_two{
+        left: 10%;
+        width: 80%;
+        top: 300px;
+    }
+    .login_signup_absolut_two{
+        top: 150px;
+    }
 }
 
 
